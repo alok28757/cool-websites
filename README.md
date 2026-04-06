@@ -4,7 +4,7 @@ https://unlistedvideos.com/ -- A website for submitting, searching for, and watc
 
 https://ncase.me/trust/ -- A phychological game
 
-https://temp-mail.org/ - Give you a temporary email address
+https://temp-mail.org/ -- Give you a temporary email address
 
 https://neal.fun/ -- Fun game app
 
