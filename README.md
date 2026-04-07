@@ -17,3 +17,5 @@ https://everynoise.com/ -- Some music site. Dont' know what it does
 https://www.futureme.org/ -- send an email to your future self.
 
 https://neal.fun/#google_vignette -- for fun science/general stuff
+
+https://www.tinkercad.com -- free web app for 3D design, electronics, and coding.
