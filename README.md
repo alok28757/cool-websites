@@ -19,3 +19,5 @@ https://www.futureme.org/ -- send an email to your future self.
 https://neal.fun/#google_vignette -- for fun science/general stuff
 
 https://www.tinkercad.com -- free web app for 3D design, electronics, and coding.
+
+https://github.com/oz123/awesome-c - A curated list of C good stuff
